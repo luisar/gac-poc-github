@@ -1,0 +1,45 @@
+{
+    "auth":{
+        "title": "Create an account",
+        "signup": "Sign up",
+        "login": "Log in",
+        "facebookup": "Sign up with Facebook",
+        "googleup": "Sign up with Google",
+        "facebookin": "Login with Facebook",
+        "googlein": "Login with Google"
+    },
+    "library": {
+        "title": "Library",
+        "search": "Search...",
+        "play": "Play",
+        "install": "Install",
+        "referral": "Join the club!"
+    },
+    "settings": {
+        "title": "Settings",
+        "selectedLang": "English",
+        "language": "Change Language",
+        "profile": "Profile Management",
+        "call": "Call Notifications",
+        "email": "Email Notifications",
+        "push": "Push Notifications",
+        "referral": "Referral",
+        "corporate": "Corporate Information",
+        "help": "Help and Support"
+    },
+    "navigation":{
+        "store": "Store",
+        "feed": "Feed",
+        "library": "Library",
+        "tournaments": "Tournaments",
+        "friends": "Friends",
+        "messages": "Messages",
+        "leaderboard": "Leaderboard",
+        "settings": "Settings"
+    },
+    "referral":{
+        "title": "Referral",
+        "join": "Join the club!"
+    }
+      
+}

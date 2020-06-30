@@ -1,0 +1,45 @@
+{
+    "auth":{
+        "title": "Crea tu cuenta",
+        "signup": "Registrarme",
+        "login": "Entrar",
+        "facebookup": "Registrarme con Facebook",
+        "googleup": "Registrarme con Google",
+        "facebookin": "Entrar con Facebook",
+        "googlein": "Entrar con Google"
+    },
+    "library": {
+        "title": "Biblioteca",
+        "search": "Buscar...",
+        "play": "Jugar",
+        "install": "Instalar",
+        "referral": "Únete al club!"
+    },
+    "settings": {
+        "title": "Configuración",
+        "selectedLang": "Español",
+        "language": "Cambiar Idioma",
+        "profile": "Gestión de Perfil",
+        "call": "Notificaciones de Llamada",
+        "email": "Notificaciones de Email",
+        "push": "Notificaciones Push",
+        "referral": "Referencia",
+        "corporate": "Información Corporativa",
+        "help": "Ayuda y Soporte"
+    },
+    "navigation":{
+        "store": "Tienda",
+        "feed": "Transmisiones",
+        "library": "Biblioteca",
+        "tournaments": "Torneos",
+        "friends": "Amigos",
+        "messages": "Mensajes",
+        "leaderboard": "Marcador",
+        "settings": "Configuración"
+    },
+    "referral":{
+        "title": "Código de Referencia",
+        "join": "Únete al club!"
+    }
+      
+}
